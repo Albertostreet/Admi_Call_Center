@@ -1,0 +1,80 @@
+PACHECO LLANO
+JUANA
+07:00
+15:00
+52
+0
+Servidores
+
+FIGUERAS DEVESA
+CARLA
+14:00
+22:00
+103
+67
+Redes
+
+FARI¥AS MU¥OZ
+CRISTOBAL
+00:00
+08:00
+103
+0
+Portatiles
+
+CALVET LOSA
+IVAN
+07:00
+15:00
+52
+0
+Servidores
+
+QUERO BAENA
+JOSE
+05:00
+13:00
+15
+0
+Redes
+
+SOLA FLORES
+MONICA
+15:16
+23:16
+108
+15
+Redes
+
+Gonz lez Trejo
+Cipriano Ariel
+07:00
+15:00
+72
+40
+Portatiles
+
+Vidal Flores
+Jimena
+14:00
+22:00
+52
+0
+Portatiles
+
+Soler Garrido
+Erika
+14:00
+22:00
+52
+0
+Servidores
+
+Marti Gonzalez
+Elsa
+07:00
+15:00
+52
+0
+Servidores
+

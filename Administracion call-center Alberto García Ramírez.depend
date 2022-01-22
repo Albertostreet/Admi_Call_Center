@@ -1,0 +1,590 @@
+# depslib dependency file v1.0
+1572386232 source:c:\users\albertostreet\desktop\estructura de datos 1\administracion call-center alberto garcía ramírez\cliente.cpp
+	"cliente.h"
+
+1572385555 c:\users\albertostreet\desktop\estructura de datos 1\administracion call-center alberto garcía ramírez\cliente.h
+	<string>
+	<iostream>
+	"nombre.h"
+	"horario.h"
+	"duracion.h"
+
+1572385625 c:\users\albertostreet\desktop\estructura de datos 1\administracion call-center alberto garcía ramírez\nombre.h
+	<string>
+
+1572385612 c:\users\albertostreet\desktop\estructura de datos 1\administracion call-center alberto garcía ramírez\horario.h
+	<string>
+	<chrono>
+	<time.h>
+	<cstdio>
+
+1572534422 source:c:\users\albertostreet\desktop\estructura de datos 1\administracion call-center alberto garcía ramírez\horario.cpp
+	"horario.h"
+
+1572535970 source:c:\users\albertostreet\desktop\estructura de datos 1\administracion call-center alberto garcía ramírez\listacliente.cpp
+	"listacliente.h"
+	<iostream>
+
+1572479396 c:\users\albertostreet\desktop\estructura de datos 1\administracion call-center alberto garcía ramírez\listacliente.h
+	<string>
+	<fstream>
+	"nodocliente.h"
+	"cliente.h"
+	"listexception.h"
+
+1572536147 c:\users\albertostreet\desktop\estructura de datos 1\administracion call-center alberto garcía ramírez\nodocliente.h
+	<string>
+	"cliente.h"
+
+1568902060 c:\users\albertostreet\desktop\estructura de datos 1\administracion call-center alberto garcía ramírez\listexception.h
+	<exception>
+	<string>
+
+1572115104 source:c:\users\albertostreet\desktop\estructura de datos 1\administracion call-center alberto garcía ramírez\main.cpp
+	<iostream>
+	"listaagentes.h"
+	"menuagentes.h"
+
+1572536147 source:c:\users\albertostreet\desktop\estructura de datos 1\administracion call-center alberto garcía ramírez\nodocliente.cpp
+	"nodocliente.h"
+
+1572536930 source:c:\users\albertostreet\desktop\estructura de datos 1\administracion call-center alberto garcía ramírez\menucliente.cpp
+	"menucliente.h"
+
+1572385373 c:\users\albertostreet\desktop\estructura de datos 1\administracion call-center alberto garcía ramírez\menucliente.h
+	<iostream>
+	<string>
+	"duracion.h"
+	"cliente.h"
+	"nombre.h"
+	"nodocliente.h"
+	"listacliente.h"
+
+1572536267 source:c:\users\albertostreet\desktop\estructura de datos 1\administracion call-center alberto garcía ramírez\nombre.cpp
+	"nombre.h"
+
+1572385612 c:\users\albertostreet\desktop\estructura de datos 1\administracion call-center alberto garcía ramírez\duracion.h
+	<cstdio>
+	<string>
+	<iostream>
+
+1572386062 source:c:\users\albertostreet\desktop\estructura de datos 1\administracion call-center alberto garcía ramírez\duracion.cpp
+	"duracion.h"
+
+1572535753 source:c:\users\albertostreet\desktop\estructura de datos 1\administracion call-center alberto garcía ramírez\agente.cpp
+	"agente.h"
+
+1572535753 c:\users\albertostreet\desktop\estructura de datos 1\administracion call-center alberto garcía ramírez\agente.h
+	<string>
+	<cstdio>
+	<iostream>
+	"nombre.h"
+	"horario.h"
+	"listacliente.h"
+
+1572536170 source:c:\users\albertostreet\desktop\estructura de datos 1\administracion call-center alberto garcía ramírez\nodoagente.cpp
+	"nodoagente.h"
+
+1572536170 c:\users\albertostreet\desktop\estructura de datos 1\administracion call-center alberto garcía ramírez\nodoagente.h
+	<string>
+	"agente.h"
+	"listacliente.h"
+
+1572539800 source:c:\users\albertostreet\desktop\estructura de datos 1\administracion call-center alberto garcía ramírez\listaagentes.cpp
+	"listaagentes.h"
+
+1572534490 c:\users\albertostreet\desktop\estructura de datos 1\administracion call-center alberto garcía ramírez\listaagentes.h
+	<string>
+	<iostream>
+	<fstream>
+	"nodoagente.h"
+	"agente.h"
+	"listexception.h"
+	"menucliente.h"
+
+1572385373 c:\users\albertostreet\desktop\estructura de datos 1\administracion call-center alberto garcía ramírez\menuagentes.h
+	<iostream>
+	<string>
+	"listaagentes.h"
+	"menucliente.h"
+	"listexception.h"
+	"nombre.h"
+	"horario.h"
+
+1572538828 source:c:\users\albertostreet\desktop\estructura de datos 1\administracion call-center alberto garcía ramírez\menuagentes.cpp
+	"menuagentes.h"
+
+1572641859 source:c:\users\alber\onedrive\documentos\administracion call-center alberto garcía ramírez\agente.cpp
+	"agente.h"
+
+1572640795 c:\users\alber\onedrive\documentos\administracion call-center alberto garcía ramírez\agente.h
+	<string>
+	<cstdio>
+	<cstdlib>
+	<iostream>
+	"nombre.h"
+	"horario.h"
+	"listacliente.h"
+
+1572385625 c:\users\alber\onedrive\documentos\administracion call-center alberto garcía ramírez\nombre.h
+	<string>
+
+1572640362 c:\users\alber\onedrive\documentos\administracion call-center alberto garcía ramírez\horario.h
+	<string>
+	<chrono>
+	<time.h>
+	<cstdio>
+	<cstdlib>
+
+1572479396 c:\users\alber\onedrive\documentos\administracion call-center alberto garcía ramírez\listacliente.h
+	<string>
+	<fstream>
+	"nodocliente.h"
+	"cliente.h"
+	"listexception.h"
+
+1572536147 c:\users\alber\onedrive\documentos\administracion call-center alberto garcía ramírez\nodocliente.h
+	<string>
+	"cliente.h"
+
+1572385555 c:\users\alber\onedrive\documentos\administracion call-center alberto garcía ramírez\cliente.h
+	<string>
+	<iostream>
+	"nombre.h"
+	"horario.h"
+	"duracion.h"
+
+1572385612 c:\users\alber\onedrive\documentos\administracion call-center alberto garcía ramírez\duracion.h
+	<cstdio>
+	<string>
+	<iostream>
+
+1568902060 c:\users\alber\onedrive\documentos\administracion call-center alberto garcía ramírez\listexception.h
+	<exception>
+	<string>
+
+1572641808 source:c:\users\alber\onedrive\documentos\administracion call-center alberto garcía ramírez\cliente.cpp
+	"cliente.h"
+
+1572640542 source:c:\users\alber\onedrive\documentos\administracion call-center alberto garcía ramírez\duracion.cpp
+	"duracion.h"
+
+1572640542 source:c:\users\alber\onedrive\documentos\administracion call-center alberto garcía ramírez\horario.cpp
+	"horario.h"
+
+1572715625 source:c:\users\alber\onedrive\documentos\administracion call-center alberto garcía ramírez\listaagentes.cpp
+	"listaagentes.h"
+
+1572553465 c:\users\alber\onedrive\documentos\administracion call-center alberto garcía ramírez\listaagentes.h
+	<string>
+	<iostream>
+	<fstream>
+	"nodoagente.h"
+	"agente.h"
+	"listexception.h"
+	"menucliente.h"
+
+1572637594 c:\users\alber\onedrive\documentos\administracion call-center alberto garcía ramírez\nodoagente.h
+	<string>
+	"agente.h"
+
+1572715625 source:c:\users\alber\onedrive\documentos\administracion call-center alberto garcía ramírez\listacliente.cpp
+	"listacliente.h"
+	<iostream>
+
+1572115104 source:c:\users\alber\onedrive\documentos\administracion call-center alberto garcía ramírez\main.cpp
+	<iostream>
+	"listaagentes.h"
+	"menuagentes.h"
+
+1572385373 c:\users\alber\onedrive\documentos\administracion call-center alberto garcía ramírez\menucliente.h
+	<iostream>
+	<string>
+	"duracion.h"
+	"cliente.h"
+	"nombre.h"
+	"nodocliente.h"
+	"listacliente.h"
+
+1572638006 source:c:\users\alber\onedrive\documentos\administracion call-center alberto garcía ramírez\menuagentes.cpp
+	"menuagentes.h"
+
+1572385373 c:\users\alber\onedrive\documentos\administracion call-center alberto garcía ramírez\menuagentes.h
+	<iostream>
+	<string>
+	"listaagentes.h"
+	"menucliente.h"
+	"listexception.h"
+	"nombre.h"
+	"horario.h"
+
+1572558407 source:c:\users\alber\onedrive\documentos\administracion call-center alberto garcía ramírez\menucliente.cpp
+	"menucliente.h"
+
+1572637638 source:c:\users\alber\onedrive\documentos\administracion call-center alberto garcía ramírez\nodoagente.cpp
+	"nodoagente.h"
+
+1572536147 source:c:\users\alber\onedrive\documentos\administracion call-center alberto garcía ramírez\nodocliente.cpp
+	"nodocliente.h"
+
+1572641490 source:c:\users\alber\onedrive\documentos\administracion call-center alberto garcía ramírez\nombre.cpp
+	"nombre.h"
+
+1573143502 source:c:\users\albertostreet\downloads\administracion call-center alberto garcía ramírez\agente.cpp
+	"agente.h"
+
+1572971540 c:\users\albertostreet\downloads\administracion call-center alberto garcía ramírez\agente.h
+	<string>
+	<cstdio>
+	<cstdlib>
+	<iostream>
+	"nombre.h"
+	"horario.h"
+	"listacliente.h"
+
+1572971501 c:\users\albertostreet\downloads\administracion call-center alberto garcía ramírez\nombre.h
+	<string>
+
+1572971540 c:\users\albertostreet\downloads\administracion call-center alberto garcía ramírez\horario.h
+	<string>
+	<chrono>
+	<time.h>
+	<cstdio>
+	<cstdlib>
+
+1572971363 c:\users\albertostreet\downloads\administracion call-center alberto garcía ramírez\listacliente.h
+	<string>
+	<fstream>
+	"nodocliente.h"
+	"cliente.h"
+	"listexception.h"
+
+1572971540 c:\users\albertostreet\downloads\administracion call-center alberto garcía ramírez\nodocliente.h
+	<string>
+	"cliente.h"
+
+1572971540 c:\users\albertostreet\downloads\administracion call-center alberto garcía ramírez\cliente.h
+	<string>
+	<iostream>
+	"nombre.h"
+	"horario.h"
+	"duracion.h"
+
+1572971540 c:\users\albertostreet\downloads\administracion call-center alberto garcía ramírez\duracion.h
+	<cstdio>
+	<string>
+	<iostream>
+
+1568902060 c:\users\albertostreet\downloads\administracion call-center alberto garcía ramírez\listexception.h
+	<exception>
+	<string>
+
+1572641808 source:c:\users\albertostreet\downloads\administracion call-center alberto garcía ramírez\cliente.cpp
+	"cliente.h"
+
+1572640542 source:c:\users\albertostreet\downloads\administracion call-center alberto garcía ramírez\duracion.cpp
+	"duracion.h"
+
+1572640542 source:c:\users\albertostreet\downloads\administracion call-center alberto garcía ramírez\horario.cpp
+	"horario.h"
+
+1573140619 source:c:\users\albertostreet\downloads\administracion call-center alberto garcía ramírez\listaagentes.cpp
+	"listaagentes.h"
+
+1572971362 c:\users\albertostreet\downloads\administracion call-center alberto garcía ramírez\listaagentes.h
+	<string>
+	<iostream>
+	<fstream>
+	"nodoagente.h"
+	"agente.h"
+	"listexception.h"
+	"menucliente.h"
+
+1572971540 c:\users\albertostreet\downloads\administracion call-center alberto garcía ramírez\nodoagente.h
+	<string>
+	"agente.h"
+
+1572971540 c:\users\albertostreet\downloads\administracion call-center alberto garcía ramírez\menucliente.h
+	<iostream>
+	<string>
+	"duracion.h"
+	"cliente.h"
+	"nombre.h"
+	"nodocliente.h"
+	"listacliente.h"
+
+1572972446 source:c:\users\albertostreet\downloads\administracion call-center alberto garcía ramírez\listacliente.cpp
+	"listacliente.h"
+	<iostream>
+
+1572971140 source:c:\users\albertostreet\downloads\administracion call-center alberto garcía ramírez\main.cpp
+	<iostream>
+	"listaagentes.h"
+	"menuagentes.h"
+	"listacliente.h"
+	"menucliente.h"
+
+1572971540 c:\users\albertostreet\downloads\administracion call-center alberto garcía ramírez\menuagentes.h
+	<iostream>
+	<string>
+	"listaagentes.h"
+	"menucliente.h"
+	"listexception.h"
+	"nombre.h"
+	"horario.h"
+
+1573143650 source:c:\users\albertostreet\downloads\administracion call-center alberto garcía ramírez\menuagentes.cpp
+	"menuagentes.h"
+
+1572971677 source:c:\users\albertostreet\downloads\administracion call-center alberto garcía ramírez\menucliente.cpp
+	"menucliente.h"
+
+1572637638 source:c:\users\albertostreet\downloads\administracion call-center alberto garcía ramírez\nodoagente.cpp
+	"nodoagente.h"
+
+1572536147 source:c:\users\albertostreet\downloads\administracion call-center alberto garcía ramírez\nodocliente.cpp
+	"nodocliente.h"
+
+1572641490 source:c:\users\albertostreet\downloads\administracion call-center alberto garcía ramírez\nombre.cpp
+	"nombre.h"
+
+1573512947 source:d:\descargas\administracion call-center alberto garcía ramírez\agente.cpp
+	"agente.h"
+
+1573512907 d:\descargas\administracion call-center alberto garcía ramírez\agente.h
+	<string>
+	<cstdio>
+	<cstdlib>
+	<iostream>
+	"nombre.h"
+	"horario.h"
+	"listacliente.h"
+
+1572971501 d:\descargas\administracion call-center alberto garcía ramírez\nombre.h
+	<string>
+
+1573512964 d:\descargas\administracion call-center alberto garcía ramírez\horario.h
+	<string>
+	<chrono>
+	<time.h>
+	<cstdio>
+	<cstdlib>
+
+1572971363 d:\descargas\administracion call-center alberto garcía ramírez\listacliente.h
+	<string>
+	<fstream>
+	"nodocliente.h"
+	"cliente.h"
+	"listexception.h"
+
+1572971540 d:\descargas\administracion call-center alberto garcía ramírez\nodocliente.h
+	<string>
+	"cliente.h"
+
+1572971540 d:\descargas\administracion call-center alberto garcía ramírez\cliente.h
+	<string>
+	<iostream>
+	"nombre.h"
+	"horario.h"
+	"duracion.h"
+
+1572971540 d:\descargas\administracion call-center alberto garcía ramírez\duracion.h
+	<cstdio>
+	<string>
+	<iostream>
+
+1568902060 d:\descargas\administracion call-center alberto garcía ramírez\listexception.h
+	<exception>
+	<string>
+
+1572641808 source:d:\descargas\administracion call-center alberto garcía ramírez\cliente.cpp
+	"cliente.h"
+
+1572640542 source:d:\descargas\administracion call-center alberto garcía ramírez\duracion.cpp
+	"duracion.h"
+
+1572640542 source:d:\descargas\administracion call-center alberto garcía ramírez\horario.cpp
+	"horario.h"
+
+1573512996 source:d:\descargas\administracion call-center alberto garcía ramírez\listaagentes.cpp
+	"listaagentes.h"
+
+1573510379 d:\descargas\administracion call-center alberto garcía ramírez\listaagentes.h
+	<string>
+	<iostream>
+	<fstream>
+	"nodoagente.h"
+	"agente.h"
+	"listexception.h"
+	"menucliente.h"
+
+1572971540 d:\descargas\administracion call-center alberto garcía ramírez\nodoagente.h
+	<string>
+	"agente.h"
+
+1573512907 d:\descargas\administracion call-center alberto garcía ramírez\menucliente.h
+	<iostream>
+	<string>
+	"duracion.h"
+	"horario.h"
+	"nombre.h"
+	"cliente.h"
+	"nodocliente.h"
+	"listacliente.h"
+
+1572972446 source:d:\descargas\administracion call-center alberto garcía ramírez\listacliente.cpp
+	"listacliente.h"
+	<iostream>
+
+1572971140 source:d:\descargas\administracion call-center alberto garcía ramírez\main.cpp
+	<iostream>
+	"listaagentes.h"
+	"menuagentes.h"
+	"listacliente.h"
+	"menucliente.h"
+
+1573511369 d:\descargas\administracion call-center alberto garcía ramírez\menuagentes.h
+	<iostream>
+	<string>
+	"listaagentes.h"
+	"menucliente.h"
+	"listexception.h"
+	"nombre.h"
+	"horario.h"
+	"cliente.h"
+
+1573513461 source:d:\descargas\administracion call-center alberto garcía ramírez\menuagentes.cpp
+	"menuagentes.h"
+
+1573512907 source:d:\descargas\administracion call-center alberto garcía ramírez\menucliente.cpp
+	"menucliente.h"
+
+1572637638 source:d:\descargas\administracion call-center alberto garcía ramírez\nodoagente.cpp
+	"nodoagente.h"
+
+1572536147 source:d:\descargas\administracion call-center alberto garcía ramírez\nodocliente.cpp
+	"nodocliente.h"
+
+1572641490 source:d:\descargas\administracion call-center alberto garcía ramírez\nombre.cpp
+	"nombre.h"
+
+1573512947 source:c:\users\alber\onedrive\escritorio\estructura de datos 1\administracion call-center alberto garcía ramírez\agente.cpp
+	"agente.h"
+
+1573512907 c:\users\alber\onedrive\escritorio\estructura de datos 1\administracion call-center alberto garcía ramírez\agente.h
+	<string>
+	<cstdio>
+	<cstdlib>
+	<iostream>
+	"nombre.h"
+	"horario.h"
+	"listacliente.h"
+
+1572971501 c:\users\alber\onedrive\escritorio\estructura de datos 1\administracion call-center alberto garcía ramírez\nombre.h
+	<string>
+
+1573512964 c:\users\alber\onedrive\escritorio\estructura de datos 1\administracion call-center alberto garcía ramírez\horario.h
+	<string>
+	<chrono>
+	<time.h>
+	<cstdio>
+	<cstdlib>
+
+1572971363 c:\users\alber\onedrive\escritorio\estructura de datos 1\administracion call-center alberto garcía ramírez\listacliente.h
+	<string>
+	<fstream>
+	"nodocliente.h"
+	"cliente.h"
+	"listexception.h"
+
+1572971540 c:\users\alber\onedrive\escritorio\estructura de datos 1\administracion call-center alberto garcía ramírez\nodocliente.h
+	<string>
+	"cliente.h"
+
+1572971540 c:\users\alber\onedrive\escritorio\estructura de datos 1\administracion call-center alberto garcía ramírez\cliente.h
+	<string>
+	<iostream>
+	"nombre.h"
+	"horario.h"
+	"duracion.h"
+
+1572971540 c:\users\alber\onedrive\escritorio\estructura de datos 1\administracion call-center alberto garcía ramírez\duracion.h
+	<cstdio>
+	<string>
+	<iostream>
+
+1568902060 c:\users\alber\onedrive\escritorio\estructura de datos 1\administracion call-center alberto garcía ramírez\listexception.h
+	<exception>
+	<string>
+
+1572641808 source:c:\users\alber\onedrive\escritorio\estructura de datos 1\administracion call-center alberto garcía ramírez\cliente.cpp
+	"cliente.h"
+
+1572640542 source:c:\users\alber\onedrive\escritorio\estructura de datos 1\administracion call-center alberto garcía ramírez\duracion.cpp
+	"duracion.h"
+
+1572640542 source:c:\users\alber\onedrive\escritorio\estructura de datos 1\administracion call-center alberto garcía ramírez\horario.cpp
+	"horario.h"
+
+1573929779 source:c:\users\alber\onedrive\escritorio\estructura de datos 1\administracion call-center alberto garcía ramírez\listaagentes.cpp
+	"listaagentes.h"
+
+1573510379 c:\users\alber\onedrive\escritorio\estructura de datos 1\administracion call-center alberto garcía ramírez\listaagentes.h
+	<string>
+	<iostream>
+	<fstream>
+	"nodoagente.h"
+	"agente.h"
+	"listexception.h"
+	"menucliente.h"
+
+1572971540 c:\users\alber\onedrive\escritorio\estructura de datos 1\administracion call-center alberto garcía ramírez\nodoagente.h
+	<string>
+	"agente.h"
+
+1573512907 c:\users\alber\onedrive\escritorio\estructura de datos 1\administracion call-center alberto garcía ramírez\menucliente.h
+	<iostream>
+	<string>
+	"duracion.h"
+	"horario.h"
+	"nombre.h"
+	"cliente.h"
+	"nodocliente.h"
+	"listacliente.h"
+
+1572972446 source:c:\users\alber\onedrive\escritorio\estructura de datos 1\administracion call-center alberto garcía ramírez\listacliente.cpp
+	"listacliente.h"
+	<iostream>
+
+1572971140 source:c:\users\alber\onedrive\escritorio\estructura de datos 1\administracion call-center alberto garcía ramírez\main.cpp
+	<iostream>
+	"listaagentes.h"
+	"menuagentes.h"
+	"listacliente.h"
+	"menucliente.h"
+
+1573929159 c:\users\alber\onedrive\escritorio\estructura de datos 1\administracion call-center alberto garcía ramírez\menuagentes.h
+	<iostream>
+	<string>
+	"listaagentes.h"
+	"menucliente.h"
+	"listexception.h"
+	"nombre.h"
+	"horario.h"
+	"cliente.h"
+
+1574099027 source:c:\users\alber\onedrive\escritorio\estructura de datos 1\administracion call-center alberto garcía ramírez\menuagentes.cpp
+	"menuagentes.h"
+
+1573512907 source:c:\users\alber\onedrive\escritorio\estructura de datos 1\administracion call-center alberto garcía ramírez\menucliente.cpp
+	"menucliente.h"
+
+1572637638 source:c:\users\alber\onedrive\escritorio\estructura de datos 1\administracion call-center alberto garcía ramírez\nodoagente.cpp
+	"nodoagente.h"
+
+1572536147 source:c:\users\alber\onedrive\escritorio\estructura de datos 1\administracion call-center alberto garcía ramírez\nodocliente.cpp
+	"nodocliente.h"
+
+1572641490 source:c:\users\alber\onedrive\escritorio\estructura de datos 1\administracion call-center alberto garcía ramírez\nombre.cpp
+	"nombre.h"
+
